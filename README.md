@@ -2,15 +2,15 @@
 
 <!-- ### Hi there 👋 -->
 ---
-### I'm a Computer Science student at Northeastern University concentrating in AI.
+#### I'm a Computer Science student at Northeastern University concentrating in AI.
 
-#### NOW
+##### NOW
 
 - ✨ Designing Portfolio Website
 - 😱 Figuring out a Two Sentence Horror Generator
 - 🚧 Creating a Tetris AI
 
-#### BIO
+##### BIO
 
 - ⚙️ I use daily: `.py (NumPy, Matplotlib, Pandas)`, `.java`, and `.sql`
 - 🧠Currently learning: `.py (PyTorch)`, `.html`, `.css`, and `.js (MySQL, Express, React, Node)`
