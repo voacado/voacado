@@ -5,7 +5,7 @@
 #### I'm a Computer Science student at Northeastern University concentrating in AI and Psychology. I love all things chess ♟️, aviation ✈️, and board games 🎲.
 
 ##### NOW
-- ✨ Designing a Portfolio Website
+- ✨ Working on my private pilot's license and fantasy world for my DnD campaign
 - 😨 Prototyping an Eval Metric for Two-Sentence Horror stories
 - 🎮 Creating a gym environment for Super Mario Bros. 3 (to train a neural network)
 - 🗺️ Implementing a map app to locate nearby train stations and convenient stops from apartments
