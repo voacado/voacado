@@ -18,7 +18,7 @@
 
 ##### BIO
 - 😄 Pronouns: `they/them`
-- ⚙️ I use daily: `.py (NumPy, Matplotlib, Pandas, TensorFlow)` `.java` `.sql` `.js (PostgreSQL, Express, React, Node)`
+- ⚙️ I use daily: `.py (NumPy, Matplotlib, Pandas, TensorFlow)` `.java` `.sql (PostgreSQL)` `.js (Express, React, Node)`
 - 🧠 Currently learning: `.py (PyTorch, XGBoost)` `.rust` `all things NLP`
 - ⚡️ Fun fact: I'm cross-dominant (left-handed at tennis, right-handed at ping-pong)
 - 📫 How to reach me: 
