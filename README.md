@@ -2,21 +2,27 @@
 
 <!-- ### Hi there 👋 -->
 ---
-#### I'm a Computer Science student at Northeastern University concentrating in AI.
+#### I'm a Computer Science student at Northeastern University concentrating in AI and Psychology. I love all things chess ♟️, aviation ✈️, and board games 🎲.
 
 ##### NOW
+- ✨ Designing a Portfolio Website
+- 😨 Prototyping an Eval Metric for Two-Sentence Horror stories
+- 🎮 Creating a gym environment for Super Mario Bros. 3 (to train a neural network)
+- 🗺️ Implementing a map app to locate nearby train stations and convenient stops from apartments
+- 😎 Working on various accessiblity-focused applications
 
-- ✨ Designing Portfolio Website
-- 😱 Figuring out a Two Sentence Horror Generator
-- 🚧 Creating a Tetris AI
+##### PAST
+- 🚧 Created a Tetris AI
+- 😱 Figured out a Two-Sentence Horror LM
+- 📊 Collaborated on an accessible spreadsheet app
 
 ##### BIO
-
-- ⚙️ I use daily: `.py (NumPy, Matplotlib, Pandas)`, `.java`, and `.sql`
-- 🧠Currently learning: `.py (PyTorch)`, `.html`, `.css`, and `.js (MySQL, Express, React, Node)`
+- 😄 Pronouns: `they/them`
+- ⚙️ I use daily: `.py (NumPy, Matplotlib, Pandas, TensorFlow)` `.java` `.sql` `.js (PostgreSQL, Express, React, Node)`
+- 🧠 Currently learning: `.py (PyTorch, XGBoost)` `.rust` `all things NLP`
 - ⚡️ Fun fact: I'm cross-dominant (left-handed at tennis, right-handed at ping-pong)
 - 📫 How to reach me: 
-  - 📧 <antvo2002@gmail.com>
+  - 📧 <vo.ant@northeastern.edu>
   - 🤖 [r/AntVo2448](https://www.reddit.com/user/AntVo2448/)
 
 <!--
