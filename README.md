@@ -23,7 +23,6 @@
 - ⚡️ Fun fact: I'm cross-dominant (left-handed at tennis, right-handed at ping-pong)
 - 📫 How to reach me: 
   - 📧 <vo.ant@northeastern.edu>
-  - 🤖 [r/AntVo2448](https://www.reddit.com/user/AntVo2448/)
   - 💼 [LinkedIn @antvo](https://www.linkedin.com/in/antvo/)
 
 <!--
