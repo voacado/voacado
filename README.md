@@ -24,6 +24,7 @@
 - 📫 How to reach me: 
   - 📧 <vo.ant@northeastern.edu>
   - 🤖 [r/AntVo2448](https://www.reddit.com/user/AntVo2448/)
+  - 💼 [LinkedIn @antvo](https://www.linkedin.com/in/antvo/)
 
 <!--
 **AntVo2448/AntVo2448** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
