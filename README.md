@@ -2,7 +2,7 @@
 
 <!-- ### Hi there 👋 -->
 ---
-#### I'm a data scientist 👩‍🔬 and software engineer 💻 pursing my masters in data science. I love all things chess ♟️, aviation ✈️, and board games 🎲.
+#### Heyo! I'm a machine learning engineer 👩‍🔬 at Rockstar Games 🎮 with a masters in data science. I love all things rock climbing 🧗, aviation ✈️, and board games 🎲.
 
 ##### NOW
 - ✨ Working on my private pilot's license and fantasy world for my DnD campaign
@@ -18,9 +18,10 @@
 
 ##### BIO
 - 😄 Pronouns: `she/her`
-- ⚙️ I use daily: `.py (NumPy, Matplotlib, Pandas, TensorFlow)` `.java` `.sql (PostgreSQL)` `.js (Express, React, Node)`
-- 🧠 Currently learning: `.py (PyTorch, XGBoost)` `.rust` `all things NLP`
+- ⚙️ I use daily: `.py (NumPy, Matplotlib, Pandas, TensorFlow, PyTorch, XGBoost)` `.sql (PostgreSQL)` 
+  - and occassionally: `.java` `.js (Express, React, Node)`
+- 🧠 Currently learning: `.rust`
 - ⚡️ Fun fact: I'm cross-dominant! (left-handed at tennis, right-handed at ping-pong)
 - 📫 How to reach me: 
-  - 📧 <vo.ant@northeastern.edu>
+  - 📧 <alvo2@illinois.edu>
   - 💼 [LinkedIn @anya-vo](https://www.linkedin.com/in/anya-vo/)
